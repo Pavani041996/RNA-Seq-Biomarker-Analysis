@@ -1,23 +1,37 @@
-RNA-seq-biomarker-analysis
+# RNA-seq Biomarker Analysis for Hepatobiliary Carcinoma
 
 ## Overview
-This repository contains an R-based workflow for analyzing gene expression data,
-including preprocessing, normalization, and exploratory analysis.
+This project focuses on identifying gene expression signatures and potential biomarkers in hepatobiliary carcinoma using RNA-seq data and bioinformatics pipelines.
 
-## Methods
-- Data cleaning and normalization
-- Principal Component Analysis (PCA)
-- Visualization of gene expression patterns
+## Dataset
+- GEO Dataset: GSE148355
+- Gene expression count data
 
-## Tools & Packages
-- R
-- tidyverse
-- DESeq2 / edgeR (if applicable)
-- ggplot2
+## Methodology
+1. Data preprocessing and normalization
+2. Principal Component Analysis (PCA)
+3. Differential Gene Expression Analysis (DESeq2)
+4. Visualization (Volcano plot, Heatmap)
+5. Functional enrichment analysis (DAVID, Enrichr, Reactome)
 
-## Notes
-This code was written and executed by the author as part of academic and research projects.
+## Results
+- Identified significantly upregulated and downregulated genes
+- PCA analysis showed clear separation between control and disease samples
+- Enrichment analysis revealed cancer-associated pathways
 
-## Author
-Pavani Annambhotla  
-Background: Biochemistry & Bioinformatics
+## Visualizations
+- PCA plots
+- Volcano plot
+- Heatmap
+
+## Key Findings
+- Identified gene expression signatures relevant to hepatobiliary carcinoma
+- Pathway analysis highlighted tumor progression mechanisms
+- Potential biomarkers identified for further validation
+
+## Tools Used
+- R (DESeq2, ggplot2)
+- Bioinformatics databases (GEO, DAVID, Reactome)
+
+## Status
+Completed
