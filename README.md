@@ -43,3 +43,14 @@ Completed
 
 ## Biological Interpretation
 The identified differentially expressed genes and enriched pathways suggest key molecular mechanisms involved in hepatobiliary carcinoma progression and may serve as potential diagnostic or therapeutic biomarkers.
+
+## Visual Outputs
+
+### PCA Plot
+Shows separation between control and disease samples.
+
+### Volcano Plot
+Highlights significantly upregulated and downregulated genes.
+
+### Heatmap
+Displays expression patterns of key genes across samples.
