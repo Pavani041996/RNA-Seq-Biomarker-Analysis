@@ -33,6 +33,11 @@ This project focuses on identifying gene expression signatures and potential bio
 - R (DESeq2, ggplot2)
 - Bioinformatics databases (GEO, DAVID, Reactome)
 
+## Data Files
+- differential_expression_results.csv: Contains DEGs identified using DESeq2
+- pathway_enrichment.csv: Functional enrichment results
+- pca_sample_data.csv: PCA visualization data
+
 ## Status
 Completed
 
