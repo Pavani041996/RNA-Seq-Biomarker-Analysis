@@ -1,4 +1,4 @@
-# RNA-seq / Gene Expression Analysis using R
+RNA-seq-biomarker-analysis
 
 ## Overview
 This repository contains an R-based workflow for analyzing gene expression data,
