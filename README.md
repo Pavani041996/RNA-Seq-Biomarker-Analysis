@@ -14,6 +14,16 @@ This project focuses on identifying gene expression signatures and potential bio
 4. Visualization (Volcano plot, Heatmap)
 5. Functional enrichment analysis (DAVID, Enrichr, Reactome)
 
+## Reproducible Pipeline
+
+This repository includes a simplified RNA-seq workflow implemented in R using DESeq2 for differential gene expression analysis.
+
+The pipeline demonstrates:
+- Data loading and preprocessing
+- Differential expression analysis
+- Result extraction and interpretation
+
+  
 ## Results
 - Identified significantly upregulated and downregulated genes
 - PCA analysis showed clear separation between control and disease samples
