@@ -38,6 +38,14 @@ This project focuses on identifying gene expression signatures and potential bio
 - pathway_enrichment.csv: Functional enrichment results
 - pca_sample_data.csv: PCA visualization data
 
+## Workflow
+1. Data acquisition (GEO dataset)
+2. Preprocessing and normalization
+3. PCA analysis
+4. Differential expression analysis (DESeq2)
+5. Visualization (volcano plot, heatmap)
+6. Pathway enrichment analysis
+
 ## Status
 Completed
 
@@ -54,3 +62,17 @@ Highlights significantly upregulated and downregulated genes.
 
 ### Heatmap
 Displays expression patterns of key genes across samples.
+
+## Data Science Approach
+- Feature extraction from gene expression data
+- Statistical modeling using DESeq2
+- Dimensionality reduction using PCA
+- Identification of significant biomarkers
+
+## Impact
+This analysis identifies potential biomarkers for hepatobiliary carcinoma, contributing to early diagnosis and therapeutic targeting strategies.
+
+## Applications
+- Biomarker discovery
+- Disease classification
+- Precision medicine and targeted therapy research
