@@ -1,0 +1,11 @@
+Gene,log2FoldChange,pvalue,padj,Regulation
+TP53,2.5,0.0001,0.001,Upregulated
+BRCA1,1.8,0.0005,0.002,Upregulated
+MYC,2.2,0.0003,0.0015,Upregulated
+EGFR,1.5,0.001,0.005,Upregulated
+VEGFA,1.9,0.0007,0.003,Upregulated
+CDKN1A,-2.1,0.0002,0.0012,Downregulated
+PTEN,-1.7,0.0008,0.004,Downregulated
+RB1,-1.5,0.0015,0.006,Downregulated
+BAX,-1.8,0.0006,0.0025,Downregulated
+CASP3,-2.0,0.0004,0.002,Downregulated
