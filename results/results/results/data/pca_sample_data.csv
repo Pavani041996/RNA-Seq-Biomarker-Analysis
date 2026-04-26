@@ -1,0 +1,7 @@
+Sample,PC1,PC2,Condition
+Sample1,2.3,1.2,Control
+Sample2,2.1,1.5,Control
+Sample3,2.5,1.1,Control
+Sample4,-1.2,-2.3,Disease
+Sample5,-1.5,-2.1,Disease
+Sample6,-1.3,-2.4,Disease
