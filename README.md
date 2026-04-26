@@ -86,3 +86,5 @@ This analysis identifies potential biomarkers for hepatobiliary carcinoma, contr
 - Biomarker discovery
 - Disease classification
 - Precision medicine and targeted therapy research
+## Clinical Relevance
+The identified gene signatures and pathways can support biomarker discovery and early diagnosis strategies in hepatobiliary carcinoma.
