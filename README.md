@@ -35,3 +35,6 @@ This project focuses on identifying gene expression signatures and potential bio
 
 ## Status
 Completed
+
+## Biological Interpretation
+The identified differentially expressed genes and enriched pathways suggest key molecular mechanisms involved in hepatobiliary carcinoma progression and may serve as potential diagnostic or therapeutic biomarkers.
